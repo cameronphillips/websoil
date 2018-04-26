@@ -1,1 +1,2 @@
-# websoil
+# Liberating the USDA Soil Data Set!
+The goal of this project is to take all of the extremely useful yet highly inaccessible data from the US Government's WebSoil Survey's and create an elegant, useful, and highly performant interface for researchers and any who are interested in an interactive and detailed soil map of the entire United States!
